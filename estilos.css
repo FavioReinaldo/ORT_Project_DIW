@@ -420,6 +420,11 @@ footer {
 
 }
 
+footer nav  {
+    background-color: rgb(255, 255, 255);
+    border-bottom: solid 20px rgb(255, 255, 255);
+}
+
 footer img {
     padding: 0px 10px   ;
     height: 60px;
@@ -429,3 +434,6 @@ footer img:hover{
     height: 80px;
 }
 
+footer ul li a:hover {
+    background-color: rgb(255, 255, 255);
+}
